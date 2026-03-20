@@ -7,3 +7,6 @@ def triangle():
     """
     base = 10
     altura = 6
+    triangulo=((base*altura)/2)
+    print(triangulo)
+triangle()
